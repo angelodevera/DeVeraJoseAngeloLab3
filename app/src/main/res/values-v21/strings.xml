@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DeVeraJoseAngeloLab3</string>
+    <string name="title_name">MANILA CATHEDRAL</string>
+    <string name="location">Location:Cabildo cor Beaterio Intramuros, Manila 1002</string>
+    <string name="distance">Distance from UST: 3.6 km</string>
+    <string name="nextButton">Next</string>
+    <string name="backButton">Back</string>
+</resources>
